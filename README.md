@@ -5,3 +5,5 @@ Testing, linting and verification of the commit message using automated Git Hook
 
 Enter `npm install` after cloning to make use of all hooks
 
+That's the end!
+
