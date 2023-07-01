@@ -36,12 +36,20 @@
   },
   "commitlint": {
     "rules": {
-      "references-empty": [ 2, "never" ]
+      "references-empty": [
+        2,
+        "never"
+      ]
     },
     "parserPreset": {
       "parserOpts": {
-        "issuePrefixes": [ "ISSUE-" ]
+        "issuePrefixes": [
+          "ISSUE-"
+        ]
       }
     }
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
   }
 }
